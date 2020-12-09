@@ -17,6 +17,7 @@ const TemplateWrapper = ({ children }) => {
           rel="icon"
           type="image/png"
           href={`${withPrefix("/")}img/favicon.png`}
+          sizes="16x16"
         />
         <meta name="theme-color" content="#fff" />
         <meta property="og:type" content="business.business" />

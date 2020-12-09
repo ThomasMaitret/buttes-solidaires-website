@@ -20,10 +20,10 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
         <h2
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow: "0.5rem 0 0 #34d399, -0.5rem 0 0 #34d399",
-            backgroundColor: "#34d399",
+            backgroundColor: "#2d9752",
             color: "white",
-            padding: "1rem",
+            padding: "1rem 2rem",
+            borderRadius: "7px",
           }}
         >
           {title}
@@ -33,12 +33,10 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
         <div className="container">
           <div className="columns">
             <div className="column is-10 is-offset-1">
-              <div className="section">
-                <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
-                  {title}
-                </h2>
-                <PageContent className="content" content={content} />
-              </div>
+              <h2 className="title is-size-3 has-text-weight-bold is-bold-light">
+                {title}
+              </h2>
+              <PageContent className="content" content={content} />
             </div>
           </div>
         </div>
