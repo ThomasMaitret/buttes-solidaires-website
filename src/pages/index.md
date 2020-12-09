@@ -1,7 +1,7 @@
 ---
 templateKey: "page"
 title: Les buttes solidaires
-image: /img/home-jumbotron.jpg
+image: /img/jumbotron.webp
 ---
 
 Page d'accueil

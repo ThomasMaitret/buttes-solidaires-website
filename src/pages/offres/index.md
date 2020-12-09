@@ -2,7 +2,7 @@
 templateKey: "page"
 path: /offres
 title: Nos offres
-image: /img/jumbotron.jpg
+image: /img/jumbotron.webp
 ---
 
 Ici, présentation des offres, etc...
