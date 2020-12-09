@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
-import logo from "../img/logo.svg";
+import logo from "../img/favicon.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -40,8 +40,13 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="Kaldi" style={{ width: "88px" }} />
+            <Link
+              to="/"
+              className="navbar-item"
+              title="Logo"
+              activeClassName="active"
+            >
+              <img src={logo} alt="Buttes solidaires" />
             </Link>
             {/* Hamburger menu */}
             <div
@@ -59,13 +64,29 @@ const Navbar = class extends React.Component {
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
             <div className="navbar-start has-text-centered">
-              <Link className="navbar-item" to="/about">
-                A propos
+              <Link className="navbar-item" to="/asso" activeClassName="active">
+                L'association
               </Link>
-              <Link className="navbar-item" to="/products">
-                Produits
+              <Link
+                className="navbar-item"
+                to="/potager"
+                activeClassName="active"
+              >
+                Le potager
               </Link>
-              <Link className="navbar-item" to="/blog">
+              <Link
+                className="navbar-item"
+                to="/offres"
+                activeClassName="active"
+              >
+                Nos offres
+              </Link>
+              <Link
+                className="navbar-item"
+                to="/blog"
+                activeClassName="active"
+                partiallyActive={true}
+              >
                 Blog
               </Link>
             </div>
