@@ -12,4 +12,5 @@ CMS.registerPreviewTemplate("index", PagePreview);
 CMS.registerPreviewTemplate("asso", PagePreview);
 CMS.registerPreviewTemplate("potager", PagePreview);
 CMS.registerPreviewTemplate("offres", PagePreview);
+CMS.registerPreviewTemplate("galerie", PagePreview);
 CMS.registerPreviewTemplate("blog", BlogPostPreview);
