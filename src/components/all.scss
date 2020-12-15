@@ -50,6 +50,10 @@ $menu-item-active-background-color: $green-invert;
 $menu-list-border-left: 1px solid $green-invert;
 $menu-label-color: $white-ter;
 
+.blog-list-item {
+  border: 1px solid #ddd;
+}
+
 .blog-list-item header {
   display: flex;
   margin-bottom: 1em;

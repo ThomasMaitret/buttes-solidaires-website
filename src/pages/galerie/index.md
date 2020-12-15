@@ -2,7 +2,7 @@
 templateKey: "page"
 path: /galerie
 title: Galerie
-image: /img/abris.jpg
+image: /img/abris.webp
 ---
 
 Galerie photo

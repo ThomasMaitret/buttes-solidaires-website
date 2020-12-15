@@ -1,7 +1,7 @@
 ---
 templateKey: "page"
 title: Les buttes solidaires
-image: /img/buttes.jpg
+image: /img/buttes.webp
 ---
 
 ### Notre démarche

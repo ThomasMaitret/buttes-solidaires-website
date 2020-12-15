@@ -2,7 +2,7 @@
 templateKey: "page"
 path: /offres
 title: Nos offres
-image: /img/courgette.jpg
+image: /img/courgette.webp
 ---
 
 1. Installation de potager (en pleine terre, bacs de cultures ou jardinière) et suivis

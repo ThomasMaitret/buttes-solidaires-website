@@ -2,7 +2,7 @@
 templateKey: "page"
 path: /asso
 title: L'association
-image: /img/zone_culture.jpg
+image: /img/zone_culture.webp
 ---
 
 Créée en 2018, l’association s’occupe d’un jardin en permaculture à Meudon.
@@ -21,4 +21,4 @@ Soucieux de partager nos connaissances et de permettre à tous.tes d’accéder 
 
 Notre démarche s’inscrit dans le long terme, les services que nous proposons s’accompagnent de conseils adaptés à chacun.e.s (culture sur balcon, mini-jardin ou grands potagers).<br/><br/>
 
-![futur](/img/debut.jpg)
+![futur](/img/debut.webp)
