@@ -10,7 +10,7 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
   return (
     <div>
       <div
-        className="full-width-image-container margin-top-0"
+        className="full-width-image-container mt-0"
         style={{
           backgroundImage: `url(${
             !!image.childImageSharp ? image.childImageSharp.fluid.src : image
@@ -18,7 +18,7 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
         }}
       >
         <h2
-          className="has-text-weight-bold is-size-1"
+          className="has-text-weight-bold is-size-1 page-title"
           style={{
             backgroundColor: "#2d9752",
             color: "white",

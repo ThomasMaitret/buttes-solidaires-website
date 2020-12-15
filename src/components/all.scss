@@ -2,7 +2,6 @@
 
 $green: #34d399;
 $green-invert: #fff;
-
 $primary: $green;
 $primary-invert: $green-invert;
 $body-color: #333;
@@ -42,34 +41,6 @@ $black: #2b2523;
   align-items: center;
 }
 
-.full-width-image {
-  width: 100vw;
-  height: 400px;
-  background-size: cover;
-  background-position: bottom;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.margin-top-0 {
-  margin-top: 0 !important;
-}
-
-.navbar-item .icon {
-  color: $primary;
-}
-
-.icon svg {
-  width: 1.5rem;
-  height: 1.5rem;
-  fill: currentColor;
-}
-
-.navbar-brand .navbar-item.logo {
-  padding: 0 1rem;
-}
-
 //Menu overrides
 $menu-item-color: $white-ter;
 $menu-item-hover-color: $black !important;
@@ -79,42 +50,23 @@ $menu-item-active-background-color: $green-invert;
 $menu-list-border-left: 1px solid $green-invert;
 $menu-label-color: $white-ter;
 
-.menu-label {
-  font-size: 1em !important;
-  text-align: left;
-}
-
-.menu-list {
-  list-style: none !important;
-  text-align: left;
-}
-
 .blog-list-item header {
   display: flex;
   margin-bottom: 1em;
 }
 
-.blog-list-item .featured-thumbnail {
-  flex-basis: 35%;
-  margin: 0 1.5em 0 0;
-}
-
 @import "~bulma";
-
-+ tablet-only {
-  .blog-list-item .featured-thumbnail {
-    flex-basis: 50%;
-  }
-}
 
 + mobile {
   .blog-list-item header {
     display: block;
   }
+}
 
-  .blog-list-item .featured-thumbnail {
-    text-align: center;
-    max-width: 70%;
-    margin: 0 0 1em;
-  }
+.page-title {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.text-decoration-none {
+  text-decoration: none !important;
 }

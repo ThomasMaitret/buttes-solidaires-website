@@ -2,7 +2,7 @@
 templateKey: "page"
 path: /potager
 title: Le potager
-image: /img/jumbotron.webp
+image: /img/potager2.jpg
 ---
 
 Les semences utilisées au jardin, sont reproductibles et

@@ -46,7 +46,7 @@ const Navbar = class extends React.Component {
               title="Logo"
               activeClassName="active"
             >
-              <img src={logo} alt="Buttes solidaires" />
+              <img src={logo} class="logo" alt="Buttes solidaires" />
             </Link>
             {/* Hamburger menu */}
             <div

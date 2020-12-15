@@ -2,7 +2,7 @@
 templateKey: "page"
 path: /galerie
 title: Galerie
-image: /img/jumbotron.webp
+image: /img/abris.jpg
 ---
 
 Galerie photo

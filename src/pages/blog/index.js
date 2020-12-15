@@ -8,13 +8,13 @@ export default class BlogIndexPage extends React.Component {
     return (
       <Layout>
         <div
-          className="full-width-image-container margin-top-0"
+          className="full-width-image-container mt-0"
           style={{
-            backgroundImage: `url('/img/blog-index.webp')`,
+            backgroundImage: `url('/img/nichoir.jpg')`,
           }}
         >
-          <h1
-            className="has-text-weight-bold is-size-1"
+          <h2
+            className="has-text-weight-bold is-size-1 page-title"
             style={{
               backgroundColor: "#2d9752",
               color: "white",
@@ -23,7 +23,7 @@ export default class BlogIndexPage extends React.Component {
             }}
           >
             Blog
-          </h1>
+          </h2>
         </div>
         <section className="section">
           <div className="container">
