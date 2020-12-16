@@ -3,19 +3,17 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import BackgroundImage from "gatsby-background-image";
 
 export const PageTemplate = ({ image, title, content, contentComponent }) => {
   const PageContent = contentComponent || Content;
 
   return (
     <div>
-      <div
+      <BackgroundImage
+        Tag="section"
         className="full-width-image-container mt-0"
-        style={{
-          backgroundImage: `url(${
-            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-          })`,
-        }}
+        fluid={image.childImageSharp.fluid}
       >
         <h2
           className="has-text-weight-bold is-size-1 page-title"
@@ -28,7 +26,7 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
         >
           {title}
         </h2>
-      </div>
+      </BackgroundImage>
       <section className="section">
         <div className="container">
           <div className="columns is-centered">
