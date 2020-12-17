@@ -13,17 +13,7 @@ export default class BlogIndexPage extends React.Component {
             backgroundImage: `url('/img/nichoir.webp')`,
           }}
         >
-          <h2
-            className="has-text-weight-bold is-size-1 page-title"
-            style={{
-              backgroundColor: "#2d9752",
-              color: "white",
-              padding: "1rem 2rem",
-              borderRadius: "7px",
-            }}
-          >
-            Blog
-          </h2>
+          <h2 className="has-text-weight-bold is-size-1 page-title">Blog</h2>
         </div>
         <section className="section">
           <div className="container">

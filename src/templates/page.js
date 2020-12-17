@@ -15,17 +15,7 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
         className="full-width-image-container mt-0"
         fluid={image.childImageSharp.fluid}
       >
-        <h2
-          className="has-text-weight-bold is-size-1 page-title"
-          style={{
-            backgroundColor: "#2d9752",
-            color: "white",
-            padding: "1rem 2rem",
-            borderRadius: "7px",
-          }}
-        >
-          {title}
-        </h2>
+        <h2 className="has-text-weight-bold is-size-1 page-title">{title}</h2>
       </BackgroundImage>
       <section className="section">
         <div className="container">

@@ -69,6 +69,10 @@ $menu-label-color: $white-ter;
 
 .page-title {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+  color: #fff;
+  padding: 1rem 2rem;
+  border-radius: 5px;
 }
 
 .text-decoration-none {
