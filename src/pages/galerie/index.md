@@ -1,8 +1,6 @@
 ---
-templateKey: "page"
+templateKey: "gallery"
 path: /galerie
 title: Galerie
 image: /img/abris.webp
 ---
-
-Galerie photo

@@ -3,9 +3,15 @@ import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import Content, { HTMLContent } from "../components/Content";
+import GalleryComponent from "../components/Gallery";
 import BackgroundImage from "gatsby-background-image";
 
-export const PageTemplate = ({ image, title, content, contentComponent }) => {
+export const GalleryTemplate = ({
+  image,
+  title,
+  content,
+  contentComponent,
+}) => {
   const PageContent = contentComponent || Content;
 
   return (
@@ -22,6 +28,7 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
           <div className="columns is-centered">
             <div className="column is-8">
               <PageContent className="content" content={content} />
+              <GalleryComponent />
             </div>
           </div>
         </div>
@@ -30,20 +37,20 @@ export const PageTemplate = ({ image, title, content, contentComponent }) => {
   );
 };
 
-PageTemplate.propTypes = {
+GalleryTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string.isRequired,
   content: PropTypes.string,
   contentComponent: PropTypes.func,
 };
 
-const Page = ({ data }) => {
+const Gallerypage = ({ data }) => {
   const { markdownRemark: post } = data;
   const { frontmatter } = data.markdownRemark;
 
   return (
     <Layout>
-      <PageTemplate
+      <GalleryTemplate
         image={frontmatter.image}
         contentComponent={HTMLContent}
         title={post.frontmatter.title}
@@ -53,7 +60,7 @@ const Page = ({ data }) => {
   );
 };
 
-Page.propTypes = {
+Gallerypage.propTypes = {
   data: PropTypes.shape({
     markdownRemark: PropTypes.shape({
       frontmatter: PropTypes.object,
@@ -61,10 +68,10 @@ Page.propTypes = {
   }),
 };
 
-export default Page;
+export default Gallerypage;
 
 export const pageQuery = graphql`
-  query Page($id: String!) {
+  query Gallery($id: String!) {
     markdownRemark(id: { eq: $id }) {
       html
       frontmatter {
