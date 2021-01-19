@@ -52,3 +52,5 @@ par l’agro-écosystème est la base de notre travail.
 Il est possible de parler de permaculture pendant des heures, de nombreuses informations
 sont disponibles gratuitement sur internet (voir annexe).
 Nous ne rentrerons donc pas plus dans le détail ici.
+
+![logo](/img/logo.webp)

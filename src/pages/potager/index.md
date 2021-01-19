@@ -5,6 +5,8 @@ title: Le potager
 image: /img/potager2.webp
 ---
 
+![potager](/img/potager.webp)
+
 ### Association #1
 
 #### La MILPA

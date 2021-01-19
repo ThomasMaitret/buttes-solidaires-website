@@ -2,7 +2,7 @@
 templateKey: "page"
 path: /permaculture
 title: La permaculture
-image: /img/zone_culture.webp
+image: /img/perma.webp
 ---
 
 Les semences utilisées au jardin, sont reproductibles et
