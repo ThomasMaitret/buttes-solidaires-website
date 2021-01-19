@@ -6,6 +6,7 @@ import "@browniebroke/gatsby-image-gallery/dist/style.css";
 const GalleryComponent = ({ data }) => {
   const images = data.allFile.edges.map(({ node }) => ({
     ...node.childImageSharp,
+    caption: node.childImageSharp.thumb.originalName,
   }));
 
   return (

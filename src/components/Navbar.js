@@ -72,6 +72,13 @@ const Navbar = class extends React.Component {
               </Link>
               <Link
                 className="navbar-item"
+                to="/permaculture"
+                activeClassName="active"
+              >
+                La permaculture
+              </Link>
+              <Link
+                className="navbar-item"
                 to="/potager"
                 activeClassName="active"
               >

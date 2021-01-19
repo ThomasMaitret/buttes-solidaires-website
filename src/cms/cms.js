@@ -11,6 +11,7 @@ CMS.registerMediaLibrary(cloudinary);
 
 CMS.registerPreviewTemplate("index", PagePreview);
 CMS.registerPreviewTemplate("asso", PagePreview);
+CMS.registerPreviewTemplate("permaculture", PagePreview);
 CMS.registerPreviewTemplate("potager", PagePreview);
 CMS.registerPreviewTemplate("offres", PagePreview);
 CMS.registerPreviewTemplate("galerie", GalleryPreview);
