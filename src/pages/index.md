@@ -3,6 +3,8 @@ templateKey: page
 title: Les buttes solidaires
 image: /img/buttes.webp
 ---
+![](/img/logo.webp)
+
 ### Notre démarche
 
 Véritables amoureux des espaces naturels, nous travaillons à la création de lieux de vie
@@ -33,8 +35,6 @@ côté esthétique avec l’intégration de fleurs au potager.
 ![Jardin mandale - Normandie ](/img/zone-de-culture-printemps-2020-3-.jpg)
 
  <br/>
-
-
 
 ### La permaculture, s’inspirer de la nature
 
