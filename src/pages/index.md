@@ -1,9 +1,8 @@
 ---
-templateKey: "page"
+templateKey: page
 title: Les buttes solidaires
 image: /img/buttes.webp
 ---
-
 ### Notre démarche
 
 Véritables amoureux des espaces naturels, nous travaillons à la création de lieux de vie
@@ -27,9 +26,15 @@ Un bord de fenêtre est déjà un espace utilisable pour faire pousser quelques 
 jardinière. Il est également possible de cultiver des légumes sur un balcon (en pot ou en
 bac).
 Un jardin offre un espace encore plus propice à la culture de légumes tout en conservant un
-côté esthétique avec l’intégration de fleurs au potager.<br/><br/>
+côté esthétique avec l’intégration de fleurs au potager.
 
-![nature](/img/muret.webp)<br/>
+<br/>
+
+![Jardin mandale - Normandie ](/img/zone-de-culture-printemps-2020-3-.jpg)
+
+ <br/>
+
+
 
 ### La permaculture, s’inspirer de la nature
 
