@@ -32,4 +32,8 @@ Culture en plessage (branchage frais entrelacé entre des piquets).
 
 ![](/img/pota-kermen-2.jpg)
 
-Bacs potager en bois de coffrage - Bretagne
+Bacs potager en bois de coffrage - Bretagne 
+
+![](/img/zone-culture-2.jpg)
+
+Planches de cultures avec ou sans coffrage et paillées.
