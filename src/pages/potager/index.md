@@ -8,6 +8,8 @@ Vous trouverez ci-dessous les différents potagers réalisés par les membres de
 
 ![potager](/img/potager.webp)
 
+Photo du talus au jardin meudonnais - Décembre 2020.
+
 ### Association #1
 
 #### La MILPA
