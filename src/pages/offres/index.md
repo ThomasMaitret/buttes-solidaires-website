@@ -14,14 +14,22 @@ En plus du potager, nous nous occupons également de la taille des haies et de l
 
 Une série de tutoriel sur la plantation de chaque type de légumes à été montée pour vous accompagnez dans vos cultures. 
 
-Ci dessous vous trouverez des exemples de potagers que nous avons créée. 
-
-
+Ci dessous vous trouverez des exemples de zones de cultures que nous avons créée. 
 
 ![](/img/association-mâche-radis-oignon-laitue.jpg "Coffrage en bouleau avec culture de mâches, oignons et radis.")
+
+Coffrage en bouleau avec culture de mâches, oignons et radis.
 
 ![](/img/culture-muret.jpg)
 
 ![](/img/img_5178.jpg "Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel. ")
 
+Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel. 
+
 ![](/img/zone-de-culture-plessage.jpg "Culture en plessage (branchage frais entrelacé entre des piquets). ")
+
+Culture en plessage (branchage frais entrelacé entre des piquets). 
+
+![](/img/pota-kermen-2.jpg)
+
+Bacs potager en bois de coffrage - Bretagne
