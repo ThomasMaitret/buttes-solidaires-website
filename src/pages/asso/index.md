@@ -2,7 +2,7 @@
 templateKey: page
 path: /asso
 title: L'association
-image: /img/3.jpg
+image: /img/abris.webp
 ---
 Créée en 2018, l’association s’occupe d’un jardin en permaculture à Meudon.
 Le jardin se situe en contrebas de l’observatoire et accueil régulièrement des chantiers collectifs.
