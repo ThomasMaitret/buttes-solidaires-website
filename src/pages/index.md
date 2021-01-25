@@ -3,7 +3,7 @@ templateKey: page
 title: Les buttes solidaires
 image: /img/buttes.webp
 ---
-![](/img/logo.webp)
+![](/img/logo.jpg)
 
 ### Notre démarche
 
@@ -58,4 +58,4 @@ Il est possible de parler de permaculture pendant des heures, de nombreuses info
 sont disponibles gratuitement sur internet (voir annexe).
 Nous ne rentrerons donc pas plus dans le détail ici.
 
-![logo](/img/logo.webp)
+![logo]()
