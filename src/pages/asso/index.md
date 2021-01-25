@@ -15,7 +15,7 @@ Retrouvez-nous sur [Facebook](https://www.facebook.com/buttesolidaires/).
 
 #### Les projets à venir
 
-Soucieux de partager nos connaissances et de permettre à tous.tes d’accéder à des produits de bonnes qualités, nous développons notre activité avec deux axes principaux: l’installation de jardin à domicile et la formation au jardinage permacole. 
+Soucieux de partager nos connaissances et de permettre à tous.tes d’accéder à des légumes de qualités, nous développons notre activité avec deux axes principaux : l’installation de jardin à domicile et la formation au jardinage permacole. 
 
 Notre démarche s’inscrit dans le long terme, les services que nous proposons s’accompagnent de conseils adaptés à chacun.e.s (culture sur balcon, mini-jardin ou grands potagers).<br/><br/>
 
