@@ -36,6 +36,8 @@ côté esthétique avec l’intégration de fleurs au potager.
 
  <br/>
 
+Jardin mandala - Normandie 
+
 ### La permaculture, s’inspirer de la nature
 
 Les écosystèmes fonctionnent de façon résiliente depuis plusieurs millions (voire
