@@ -4,11 +4,9 @@ path: /potager
 title: Le potager
 image: /img/potager2.webp
 ---
-
+Vous trouverez ci-dessous les différents potagers réalisés par les membres des buttes solidaires. 
 
 ![potager](/img/potager.webp)
-
-### Photos du talus au potager du jardin meudonnais - Décembre 2020
 
 ### Association #1
 
