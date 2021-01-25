@@ -2,7 +2,7 @@
 templateKey: page
 path: /asso
 title: L'association
-image: /img/zone_culture.webp
+image: /img/3.jpg
 ---
 Créée en 2018, l’association s’occupe d’un jardin en permaculture à Meudon.
 Le jardin se situe en contrebas de l’observatoire et accueil régulièrement des chantiers collectifs.
@@ -15,7 +15,7 @@ Retrouvez-nous sur [Facebook](https://www.facebook.com/buttesolidaires/).
 
 #### Les projets à venir
 
-Soucieux de partager nos connaissances et de permettre à tous.tes d’accéder à des produits de bonnes qualités, nous développons notre activité avec deux axes principaux: la vente de plantes potagères et ornementales et l’installation de jardin à domicile.
+Soucieux de partager nos connaissances et de permettre à tous.tes d’accéder à des produits de bonnes qualités, nous développons notre activité avec deux axes principaux: l’installation de jardin à domicile et la formation au jardinage permacole. 
 
 Notre démarche s’inscrit dans le long terme, les services que nous proposons s’accompagnent de conseils adaptés à chacun.e.s (culture sur balcon, mini-jardin ou grands potagers).<br/><br/>
 
