@@ -19,12 +19,6 @@ Comment se réapproprier ce que nous consommons et les lieux où nous vivons en 
 
 L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normandie (voir l'onglet "potager"). L'idée est d'acquérir les compétences nécessaire au lancement d'un écovillage permaculturel. 
 
-Un bord de fenêtre est déjà un espace utilisable pour faire pousser quelques aromates en
-jardinière. Il est également possible de cultiver des légumes sur un balcon (en pot ou en
-bac).
-Un jardin offre un espace encore plus propice à la culture de légumes tout en conservant un
-côté esthétique avec l’intégration de fleurs au potager.
-
 <br/>
 
 ![Jardin mandale - Normandie ](/img/zone-de-culture-printemps-2020-3-.jpg)
