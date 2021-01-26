@@ -27,6 +27,10 @@ L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normand
 
 Jardin mandala - Normandie 
 
+![](/img/photo-1er-page.jpg)
+
+Jardin de Meudon - Février 2020
+
 ### La permaculture, s’inspirer de la nature
 
 Les écosystèmes fonctionnent de façon résiliente depuis plusieurs millions, voire
@@ -45,10 +49,4 @@ Ces producteurs primaires (des végétaux le plus souvent) fournissent cette
 Limiter les intrants (quelques soit leur nature) et réutiliser la matière organique produite
 par l’agroécosystème est la base de notre travail.
 
-Au delà de la production de fruits et légumes, la permaculture permet de penser la totalité de sa façon de vivre (habitat, vie en collectif, gouvernance de groupes etc.). 
-
-
-
-![logo](/img/photo-1er-page.jpg)
-
-Jardin de Meudon - Février 2020
+Au delà de la production de fruits et légumes, la permaculture permet de penser la totalité de sa façon de vivre (habitat, vie en collectif, gouvernance de groupes etc.).
