@@ -8,6 +8,12 @@ image: /img/courgette.webp
 
 Nous vous proposons de créer votre  potager sur mesure (en pleine terre, bacs de cultures ou jardinière) ainsi que vous fournir les connaissances pour l'exploiter. Cela comprends le design des cultures (formes et agencement des planches de cultures), la mise en place des zones de cultures (coffrage, paillage), l'installation de composteur en bois et de serre chassie pour les semis.
 
+Un bord de fenêtre est déjà un espace utilisable pour faire pousser quelques aromates en
+jardinière. Il est également possible de cultiver des légumes sur un balcon (en pot ou en
+bac).
+Un jardin offre un espace encore plus propice à la culture de légumes tout en conservant un
+côté esthétique avec l’intégration de fleurs au potager.
+
 L'idée principale dans la création d'un potager est d'utiliser le plus possible les matières présentes sur place (tonte, feuilles mortes, rondin de bois, branchage etc.). 
 
 En plus du potager, nous nous occupons également de la taille des haies et de la plantation de bandes fleuries. Les résidus de l'entretient du jardin seront le plus possible réutilisé sur place (paillage, haie morte) où évacuées selon vos désirs. 
