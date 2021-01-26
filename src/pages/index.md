@@ -17,9 +17,7 @@ Partager nos connaissances et en acquérir de nouvelles est un moteur qui nous p
 tout les jours à découvrir de nouvelles choses et parler de celle que nous connaissons.
 Comment se réapproprier ce que nous consommons et les lieux où nous vivons en restant en harmonie avec le vivant ?
 
-C’est pour cela que nous développons notre activité en proposants des services de
-jardinage à domicile afin que le plus grands nombres puissent accéder à une alimentation
-de qualité (voir rubrique "nos offres"). .
+L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normandie (voir l'onglet "potager"). L'idée est d'acquérir les compétences nécessaire au lancement d'un écovillage permaculturel. 
 
 Un bord de fenêtre est déjà un espace utilisable pour faire pousser quelques aromates en
 jardinière. Il est également possible de cultiver des légumes sur un balcon (en pot ou en
