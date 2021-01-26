@@ -29,13 +29,13 @@ Jardin mandala - Normandie
 
 ### La permaculture, s’inspirer de la nature
 
-Les écosystèmes fonctionnent de façon résiliente depuis plusieurs millions (voire
-milliards) d’années.
+Les écosystèmes fonctionnent de façon résiliente depuis plusieurs millions, voire
+milliards, d’années.
 Dès lors, notre constat est simple : aucuns systèmes n’est plus efficace
 que la nature pour produire ce dont la vie (animale, végétale, champignon et bactérie) à
 besoins pour se développer.
 
-Alors pourquoi ne pas s’en inspirer pour produire notre nourriture ?
+Alors pourquoi ne pas s’en inspirer pour produire notre nourriture et organiser nos modes de vies ?
 
 Un système agricole inspiré d’écosystèmes naturels. Les producteurs primaires fournissent
 toute la matière organique nécessaire aux autres maillons de la chaine alimentaire pour
@@ -43,10 +43,12 @@ prospérer.
 Ces producteurs primaires (des végétaux le plus souvent) fournissent cette
 énergie à partir du soleil, de l’eau, de l’oxygène, du CO2 et de sels minéraux.
 Limiter les intrants (quelques soit leur nature) et réutiliser la matière organique produite
-par l’agro-écosystème est la base de notre travail.
+par l’agroécosystème est la base de notre travail.
 
-Il est possible de parler de permaculture pendant des heures, de nombreuses informations
-sont disponibles gratuitement sur internet (voir annexe).
-Nous ne rentrerons donc pas plus dans le détail ici.
+Au delà de la production de fruits et légumes, la permaculture permet de penser la totalité de sa façon de vivre (habitat, vie en collectif, gouvernance de groupes etc.). 
 
-![logo]()
+
+
+![logo](/img/photo-1er-page.jpg)
+
+Jardin de Meudon - Février 2020
