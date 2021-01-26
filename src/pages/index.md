@@ -9,20 +9,17 @@ image: /img/buttes.webp
 
 Véritables amoureux des espaces naturels, nous travaillons à la création de lieux de vie
 alternatifs respectueux du vivant.
-Cela passe par le jardinage, le travail du bois, l’apprentissage de techniques anciennes (four en terre cuite…) et l’échange lié au enjeux
-environnementaux et sociaux.
+Cela passe par le jardinage, le travail du bois, l’apprentissage de techniques anciennes (four en terre cuite…) et l’échange lié au enjeux environnementaux et sociaux.
 
-Quoi de mieux de faire cela dans un cadre de vie agréable et
-jolie ?
+Quoi de mieux de faire cela dans un cadre de vie agréable et jolie ?
 
 Partager nos connaissances et en acquérir de nouvelles est un moteur qui nous poussent
 tout les jours à découvrir de nouvelles choses et parler de celle que nous connaissons.
-Comment se réapproprier se que nous consommons et les lieux où nous vivons en limitant le
-plus possible notre impact sur l’environnement sans perdre en confort pour autant ?
+Comment se réapproprier ce que nous consommons et les lieux où nous vivons en restant en harmonie avec le vivant ?
 
-C’est pour cela que nous développons notre activités en proposants des services de
+C’est pour cela que nous développons notre activité en proposants des services de
 jardinage à domicile afin que le plus grands nombres puissent accéder à une alimentation
-de qualité.
+de qualité (voir rubrique "nos offres"). .
 
 Un bord de fenêtre est déjà un espace utilisable pour faire pousser quelques aromates en
 jardinière. Il est également possible de cultiver des légumes sur un balcon (en pot ou en
