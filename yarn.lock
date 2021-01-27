@@ -3412,10 +3412,10 @@
   "resolved" "https://registry.npmjs.org/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz"
   "version" "3.0.0"
 
-"bulma@^0.9.1":
-  "integrity" "sha512-LSF69OumXg2HSKl2+rN0/OEXJy7WFEb681wtBlNS/ulJYR27J3rORHibdXZ6GVb/vyUzzYK/Arjyh56wjbFedA=="
-  "resolved" "https://registry.npmjs.org/bulma/-/bulma-0.9.1.tgz"
-  "version" "0.9.1"
+"bulma@^0.9.2":
+  "integrity" "sha512-e14EF+3VSZ488yL/lJH0tR8mFWiEQVCMi/BQUMi2TGMBOk+zrDg4wryuwm/+dRSHJw0gMawp2tsW7X1JYUCE3A=="
+  "resolved" "https://registry.npmjs.org/bulma/-/bulma-0.9.2.tgz"
+  "version" "0.9.2"
 
 "busboy@^0.3.1":
   "integrity" "sha512-y7tTxhGKXcyBxRKAni+awqx8uqaJKrSFSNFSeRG5CsWNdmy2BIK+6VGWEW7TZnIO/533mtMEA4rOevQV815YJw=="
@@ -6903,10 +6903,10 @@
     "@babel/runtime" "^7.12.5"
     "sass-loader" "^10.1.0"
 
-"gatsby-plugin-sharp@^2.0.0-beta.3", "gatsby-plugin-sharp@^2.0.0-beta.5", "gatsby-plugin-sharp@^2.13.1":
-  "integrity" "sha512-giWDcw58OFy7SP4kzgCd2qXxdWJkKXE03EviOxIjD2wjOxym+eUfUximxgbWjLT6dL9Vog3e/Pre57iVDPbPLA=="
-  "resolved" "https://registry.npmjs.org/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.13.1.tgz"
-  "version" "2.13.1"
+"gatsby-plugin-sharp@^2.0.0-beta.3", "gatsby-plugin-sharp@^2.0.0-beta.5", "gatsby-plugin-sharp@^2.13.2":
+  "integrity" "sha512-e3awqhwAq6so5NxIsLV10uiI557tCWsQaopEFp5IzC5J+CqqY1R57rzvymtR+foWCDnkSk4int6ZdlRDevMiDA=="
+  "resolved" "https://registry.npmjs.org/gatsby-plugin-sharp/-/gatsby-plugin-sharp-2.13.2.tgz"
+  "version" "2.13.2"
   dependencies:
     "@babel/runtime" "^7.12.5"
     "async" "^3.2.0"
@@ -12461,10 +12461,10 @@
   dependencies:
     "pretty-format" "^3.8.0"
 
-"preact@^10.0.0", "preact@^10.3.4", "preact@^10.4.0", "preact@^10.5.11", "preact@>=10":
-  "integrity" "sha512-BdtFePVilR1430kDuzh3VkkZktCmp8RTqHOjG8qesyGZXHNYJjdrjEBuc2f7O/vthhVENxJd0/aTjWtYeH46aw=="
-  "resolved" "https://registry.npmjs.org/preact/-/preact-10.5.11.tgz"
-  "version" "10.5.11"
+"preact@^10.0.0", "preact@^10.3.4", "preact@^10.4.0", "preact@^10.5.12", "preact@>=10":
+  "integrity" "sha512-r6siDkuD36oszwlCkcqDJCAKBQxGoeEGytw2DGMD5A/GGdu5Tymw+N2OBXwvOLxg6d1FeY8MgMV3cc5aVQo4Cg=="
+  "resolved" "https://registry.npmjs.org/preact/-/preact-10.5.12.tgz"
+  "version" "10.5.12"
 
 "prebuild-install@^6.0.0":
   "integrity" "sha512-h2ZJ1PXHKWZpp1caLw0oX9sagVpL2YTk+ZwInQbQ3QqNd4J03O6MpFNmMTJlkfgPENWqe5kP0WjQLqz5OjLfsw=="
