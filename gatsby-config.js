@@ -50,7 +50,6 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 780,
               withWebp: true,
-              withAvif: true,
             },
           },
           {
