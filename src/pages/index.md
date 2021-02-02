@@ -27,7 +27,7 @@ L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normand
 
 Jardin mandala - Normandie 
 
-![](/img/photo-1er-page.jpg)
+![](/img/abris.webp)
 
 Jardin de Meudon - Février 2020
 
