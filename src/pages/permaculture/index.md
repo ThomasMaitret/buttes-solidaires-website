@@ -18,26 +18,20 @@ Au delà de la production de fruits et légumes, la permaculture permet de pense
 
 <!--EndFragment-->
 
+Un sol vivant est selon nous primordial pour que les cultures se développent
+bien. Pour favoriser la présence de microorganismes décomposeur du sol nous
+appliquons deux principes : le non travail du sol et apport massif et
+régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
+
 
 
 **Les Semences** 
 
-Les semences utilisées au jardin, sont reproductibles et
-libres de droits.
-Cela permet d’avoir accès à des variétés
-anciennes (tomates cœur de bœuf, maïs multicolore etc.) qu’il
-est possible de reproduire soi-même.
+Les semences utilisées au jardin, sont reproductibles et libres de droits. Cela permet d’avoir accès à des variétés anciennes (tomates cœur de bœuf, maïs multicolore etc.) qu’il est possible de reproduire soi-même.
 
-Seuls les plants exempts de maladies et qui ont été peu arrosés
-sont sélectionnés pour produire les semences.
-Les semences sont donc mieux adaptées au terrain et plus
-résistantes aux aléas climatiques (sécheresses, fortes
-chaleurs, ravageurs).
+Seuls les plants exempts de maladies et qui ont été peu arrosés sont sélectionnés pour produire les semences. Les semences sont donc mieux adaptées au terrain et plus résistantes aux aléas climatiques (sécheresses, fortes chaleurs, ravageurs).
 
-Le pouvoir de multiplication du vivant est impressionnant,
-seulement trois pieds d’aneth peuvent produire des centaines
-de graines qui donneront à leurs tour des centaines d’autres
-plants.
+Le pouvoir de multiplication du vivant est impressionnant, seulement trois pieds d’aneth peuvent produire des centaines de graines qui donneront à leurs tour des centaines d’autres plants.
 
 **Les associations de cultures** 
 
