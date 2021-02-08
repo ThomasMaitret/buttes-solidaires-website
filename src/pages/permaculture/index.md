@@ -65,7 +65,7 @@ Ici la Milpa réalisée au potager, le maïs sont complétés par quelques pieds
 
 <!--EndFragment-->
 
-Dans un Millpa dite diversifiée, il est possible d'ajouter des tomates, aubergines ou poivrons. 
+Dans un Millpa diversifiée, il est possible d'ajouter des tomates, aubergines ou poivrons. 
 
    **Poireaux & blettes** 
 
@@ -81,5 +81,5 @@ La blette se contente d’un sol moins riches et son système racinaire se déve
 
 Un sol vivant est selon nous primordial pour que les cultures se développent
 bien. Pour favoriser la présence de microorganismes décomposeur du sol nous
-appliquons deux principes : travail du sol réduit au minimum et apport massif et
+appliquons deux principes : le non travail du sol et apport massif et
 régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
