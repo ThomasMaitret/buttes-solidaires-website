@@ -48,7 +48,10 @@ pour éloigner les ravageurs ou maladies en utilisant des plantes dites
 compagnes.
 
 Cependant, le gain d’espace, d'efficacité et l’esthétique de ces cultures est
-sans équivoques. 
+sans équivoques. Les rotations de cultures permet une optimisation de la production de légumes. Par
+exemple, une culture gourmande en nutriments serra suivit directement d’une
+moins exigeante. Exemple : culture de tomates ou courges suivit de la plantation
+d’ail ou roquette.
 
    **La Milpa** (association courges, maïs et haricots) 
 
@@ -64,12 +67,19 @@ Ici la Milpa réalisée au potager, le maïs sont complétés par quelques pieds
 
 Dans un Millpa dite diversifiée, il est possible d'ajouter des tomates, aubergines ou poivrons. 
 
+   **Poireaux & blettes** 
+
+<!--StartFragment-->
+
+Exemple d’une planche avec poireaux et blettes. Cette association se base sur une utilisation de l’espace et des ressources différentes. Les poireaux demandent un sol riche et ont des racines peu profondes.
+
+La blette se contente d’un sol moins riches et son système racinaire se développe plus profondément. Ces deux cultures sont donc complémentaires dans leur utilisation de l’espace et des ressources du sol.
+
+<!--EndFragment-->
+
+![](/img/perma.webp)
+
 Un sol vivant est selon nous primordial pour que les cultures se développent
 bien. Pour favoriser la présence de microorganismes décomposeur du sol nous
 appliquons deux principes : travail du sol réduit au minimum et apport massif et
 régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
-
-Les rotations de cultures permet une optimisation de la production de légumes. Par
-exemple, une culture gourmande en nutriments serra suivit directement d’une
-moins exigeante. Exemple : culture de tomates ou courges suivit de la plantation
-d’ail ou roquette.
