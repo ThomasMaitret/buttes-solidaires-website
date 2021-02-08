@@ -23,8 +23,6 @@ bien. Pour favoriser la présence de microorganismes décomposeur du sol nous
 appliquons deux principes : le non travail du sol et apport massif et
 régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
 
-
-
 **Les Semences** 
 
 Les semences utilisées au jardin, sont reproductibles et libres de droits. Cela permet d’avoir accès à des variétés anciennes (tomates cœur de bœuf, maïs multicolore etc.) qu’il est possible de reproduire soi-même.
@@ -73,7 +71,14 @@ La blette se contente d’un sol moins riches et son système racinaire se déve
 
 ![](/img/perma.webp)
 
-Un sol vivant est selon nous primordial pour que les cultures se développent
-bien. Pour favoriser la présence de microorganismes décomposeur du sol nous
-appliquons deux principes : le non travail du sol et apport massif et
-régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
+   ** Tomates & capucines** 
+
+<!--StartFragment-->
+
+Les tomates ont parfois tendances à être colonisées par les pucerons. Lorsqu’ils sont trop nombreux cela peut nuire à la croissance de la plante. L’adage « mieux vaut prévenir que guérir » colle bien à cette situation.
+
+Les capucines, cultivées au pieds des tomates, attirent les pucerons qui s’attaqueront moins aux tomates.
+
+<!--EndFragment-->
+
+![](/img/Association tomates - capucines.webp)
