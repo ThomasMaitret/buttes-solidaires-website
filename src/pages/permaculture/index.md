@@ -18,10 +18,7 @@ Au delà de la production de fruits et légumes, la permaculture permet de pense
 
 <!--EndFragment-->
 
-Un sol vivant est selon nous primordial pour que les cultures se développent
-bien. Pour favoriser la présence de microorganismes décomposeur du sol nous
-appliquons deux principes : le non travail du sol et apport massif et
-régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
+Un sol vivant est selon nous primordial pour que les cultures se développent bien. Pour favoriser la présence de microorganismes décomposeur du sol nous appliquons deux principes : le non travail du sol et apport massif et régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
 
 **Les Semences** 
 
@@ -82,3 +79,5 @@ Les capucines, cultivées au pieds des tomates, attirent les pucerons qui s’at
 <!--EndFragment-->
 
 ![](/img/Association tomates - capucines.webp)
+
+Les associations présentées ici sont celles que nous avons réussi dans no jardins. Le mieux est de les tester dans vos jardins et de voir celles qui marchent ou non :).
