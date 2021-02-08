@@ -22,10 +22,8 @@ Photo du talus au jardin meudonnais - Décembre 2020.
 
 Bacs potagers à Kermen en bretagne 
 
-![Culture Milpa (maïs, courgettes et haricots)]()
-
 ![]()
 
-
+![]()
 
 ![]()
