@@ -80,15 +80,15 @@ collections:
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
-      - file: "src/pages/potager/index.md"
+      - file: "src/pages/potagers/index.md"
         label: "Potager"
-        name: "potager"
+        name: "potagers"
         fields:
           - {
               label: "Template Key",
               name: "templateKey",
               widget: "hidden",
-              default: "potager-page",
+              default: "potagers-page",
             }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }

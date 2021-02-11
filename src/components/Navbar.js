@@ -68,10 +68,10 @@ const Navbar = class extends React.Component {
               </Link>
               <Link
                 className="navbar-item"
-                to="/potager/"
+                to="/potagers/"
                 activeClassName="active"
               >
-                Le potager
+                Les potagers
               </Link>
               <Link
                 className="navbar-item"

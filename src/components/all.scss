@@ -1,6 +1,6 @@
 @import "~bulma/sass/utilities/initial-variables";
 
-$green: #34d399;
+$green: #4caf50;
 $green-invert: #fff;
 $primary: $green;
 $primary-invert: $green-invert;
@@ -62,11 +62,17 @@ $menu-label-color: $white-ter;
 @import "~bulma";
 
 .page-title {
-  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
-  background-image: linear-gradient(to top, #0ba360 0%, #3cba92 100%);
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.3);
+  background-color: $green;
   color: #fff;
   padding: 1rem 2rem;
   border-radius: 5px;
+}
+
+@include mobile {
+  .page-title {
+    font-size: 2rem !important;
+  }
 }
 
 .gallery img {
