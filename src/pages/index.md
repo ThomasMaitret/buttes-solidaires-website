@@ -1,8 +1,10 @@
 ---
 templateKey: page
+path: /
 title: Les buttes solidaires
 image: /img/buttes.webp
 ---
+
 ![](/img/logo.jpg)
 
 ### Notre démarche
@@ -17,7 +19,7 @@ Partager nos connaissances et en acquérir de nouvelles est un moteur qui nous p
 tout les jours à découvrir de nouvelles choses et parler de celle que nous connaissons.
 Comment se réapproprier ce que nous consommons et les lieux où nous vivons en restant en harmonie avec le vivant ?
 
-L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normandie (voir l'onglet "potager"). L'idée est d'acquérir les compétences nécessaire au lancement d'un écovillage permaculturel. 
+L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normandie (voir l'onglet "potager"). L'idée est d'acquérir les compétences nécessaire au lancement d'un écovillage permaculturel.
 
 <br/>
 
@@ -25,7 +27,7 @@ L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normand
 
  <br/>
 
-Jardin mandala - Normandie 
+Jardin mandala - Normandie
 
 ![](/img/abris.webp)
 

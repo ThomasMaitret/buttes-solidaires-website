@@ -1,6 +1,6 @@
 ---
 templateKey: page
-path: /asso
+path: /asso/
 title: L'association
 image: /img/abris.webp
 ---

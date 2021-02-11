@@ -1,6 +1,6 @@
 ---
 templateKey: page
-path: /offres
+path: /offres/
 title: Nos offres
 image: /img/courgette.webp
 ---

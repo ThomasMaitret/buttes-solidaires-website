@@ -1,6 +1,6 @@
 ---
 templateKey: page
-path: /permaculture
+path: /permaculture/
 title: La permaculture
 image: /img/perma.webp
 ---

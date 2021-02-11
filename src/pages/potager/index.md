@@ -1,6 +1,6 @@
 ---
 templateKey: page
-path: /potager
+path: /potager/
 title: Les potagers
 image: /img/potager2.webp
 ---

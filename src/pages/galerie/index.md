@@ -1,6 +1,6 @@
 ---
 templateKey: "gallery"
-path: /galerie
+path: /galerie/
 title: Galerie
 image: /img/abris.webp
 ---

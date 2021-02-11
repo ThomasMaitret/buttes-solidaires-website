@@ -50,22 +50,7 @@ $menu-item-active-background-color: $green-invert;
 $menu-list-border-left: 1px solid $green-invert;
 $menu-label-color: $white-ter;
 
-.blog-list-item {
-  border: 1px solid #ddd;
-}
-
-.blog-list-item header {
-  display: flex;
-  margin-bottom: 1em;
-}
-
 @import "~bulma";
-
-+ mobile {
-  .blog-list-item header {
-    display: block;
-  }
-}
 
 .page-title {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
