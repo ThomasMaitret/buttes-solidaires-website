@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "gatsby";
-import logo from "../img/logo.png";
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -33,27 +32,12 @@ const Navbar = class extends React.Component {
 
   render() {
     return (
-      <nav
-        className="navbar is-transparent"
-        role="navigation"
-        aria-label="main-navigation"
-      >
+      <nav className="navbar is-transparent" role="navigation">
         <div className="container">
           <div className="navbar-brand">
-            <Link
-              to="/"
-              className="navbar-item"
-              title="Logo"
-              activeClassName="active"
-            >
-              <img src={logo} class="logo" alt="Buttes solidaires" />
-            </Link>
-            {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              data-target="navMenu"
-              onClick={() => this.toggleHamburger()}
-              onKeyDown={this.toggleHamburger}
+              onClick={this.toggleHamburger}
               role="button"
               tabIndex="0"
             >
@@ -62,11 +46,11 @@ const Navbar = class extends React.Component {
               <span />
             </div>
           </div>
-          <div
-            id="navMenu"
-            className={`navbar-menu ${this.state.navBarActiveClass}`}
-          >
-            <div className="navbar-start has-text-centered">
+          <div className={`navbar-menu ${this.state.navBarActiveClass}`}>
+            <div className="navbar-start mx-auto">
+              <Link className="navbar-item" to="/" activeClassName="active">
+                Accueil
+              </Link>
               <Link
                 className="navbar-item"
                 to="/asso/"

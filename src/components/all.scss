@@ -8,23 +8,32 @@ $body-color: #333;
 $black: #2b2523;
 
 .navbar {
-  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.2);
+  position: sticky !important;
+  top: 0;
 }
 
-.navbar .navbar-menu {
+.navbar-menu {
   box-shadow: none !important;
 }
 
 .navbar-item {
   text-decoration: none;
+  padding: 0.5rem 1rem !important;
 }
 
 .navbar-item.active {
-  box-shadow: inset 0 -4px $primary;
+  background-color: $green;
+  color: $green-invert;
+  font-weight: 600;
 }
 
 .content {
   font-size: 1.25rem;
+}
+
+.mx-auto {
+  margin: 0 auto;
 }
 
 .full-width-image-container {
@@ -58,10 +67,6 @@ $menu-label-color: $white-ter;
   color: #fff;
   padding: 1rem 2rem;
   border-radius: 5px;
-}
-
-.text-decoration-none {
-  text-decoration: none !important;
 }
 
 .gallery img {
