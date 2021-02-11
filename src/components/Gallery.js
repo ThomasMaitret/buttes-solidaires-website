@@ -25,11 +25,11 @@ export default () => (
             node {
               childImageSharp {
                 thumb: fluid(maxWidth: 270, maxHeight: 270) {
-                  ...GatsbyImageSharpFluid
+                  ...GatsbyImageSharpFluid_tracedSVG
                   originalName
                 }
-                full: fluid(maxWidth: 1024) {
-                  ...GatsbyImageSharpFluid
+                full: fluid(maxWidth: 1920) {
+                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
                 }
               }
             }

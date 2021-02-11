@@ -1,64 +1,38 @@
 import React from "react";
-import PropTypes from "prop-types";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import Content, { HTMLContent } from "../components/Content";
 import BackgroundImage from "gatsby-background-image";
 
-export const PageTemplate = ({ image, title, content, contentComponent }) => {
-  const PageContent = contentComponent || Content;
-
-  return (
-    <div>
-      <BackgroundImage
-        Tag="section"
-        className="full-width-image-container mt-0"
-        fluid={image.childImageSharp.fluid}
-      >
-        <h2 className="has-text-weight-bold is-size-1 page-title">{title}</h2>
-      </BackgroundImage>
-      <section className="section">
-        <div className="container">
-          <div className="columns is-centered">
-            <div className="column is-8">
-              <PageContent className="content" content={content} />
-            </div>
-          </div>
-        </div>
-      </section>
-    </div>
-  );
-};
-
-PageTemplate.propTypes = {
-  image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-  title: PropTypes.string.isRequired,
-  content: PropTypes.string,
-  contentComponent: PropTypes.func,
-};
-
 const Page = ({ data }) => {
-  const { markdownRemark: post } = data;
-  const { frontmatter } = data.markdownRemark;
+  const { markdownRemark: page } = data;
 
   return (
     <Layout>
-      <PageTemplate
-        image={frontmatter.image}
-        contentComponent={HTMLContent}
-        title={post.frontmatter.title}
-        content={post.html}
-      />
+      <div>
+        <BackgroundImage
+          Tag="section"
+          className="full-width-image-container mt-0"
+          fluid={page.frontmatter.image.childImageSharp.fluid}
+        >
+          <h2 className="has-text-weight-bold is-size-1 page-title">
+            {page.frontmatter.title}
+          </h2>
+        </BackgroundImage>
+        <section className="section">
+          <div className="container">
+            <div className="columns is-centered">
+              <div className="column is-8">
+                <div
+                  className="content"
+                  dangerouslySetInnerHTML={{ __html: page.html }}
+                />
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
     </Layout>
   );
-};
-
-Page.propTypes = {
-  data: PropTypes.shape({
-    markdownRemark: PropTypes.shape({
-      frontmatter: PropTypes.object,
-    }),
-  }),
 };
 
 export default Page;
@@ -70,7 +44,7 @@ export const pageQuery = graphql`
       frontmatter {
         image {
           childImageSharp {
-            fluid(maxWidth: 1024, quality: 90) {
+            fluid(maxWidth: 1920, quality: 90) {
               ...GatsbyImageSharpFluid_withWebp
             }
           }
