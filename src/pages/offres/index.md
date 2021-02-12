@@ -4,8 +4,6 @@ path: /offres/
 title: Nos offres
 image: /img/courgette.webp
 ---
-![]()
-
 Nous vous proposons de créer votre  potager sur mesure (en pleine terre, bacs de cultures ou jardinière) ainsi que vous fournir les connaissances pour l'exploiter. Cela comprends le design des cultures (formes et agencement des planches de cultures), la mise en place des zones de cultures (coffrage, paillage), l'installation de composteur en bois et de serre chassie pour les semis.
 
 Un bord de fenêtre est déjà un espace utilisable pour faire pousser quelques aromates en
