@@ -20,14 +20,6 @@ Pour celle et ceux qui n'ont pas de jardin, nous proposons des compositions de j
 
 Vous trouverez des exemples des cultures qui nous créons dans la rubrique "potagers". 
 
-
-
-
-
-
-
-
-
 Nous vous proposons de mettre en place un potager sur mesure (en pleine terre, bacs de cultures ou jardinière) ainsi que vous fournir les connaissances pour l'exploiter. Cela comprends le design des cultures (formes et agencement des planches de cultures), la mise en place des zones de cultures (coffrage, paillage), l'installation de composteur en bois et de serre chassie pour les semis.
 
 Un bord de fenêtre est déjà un espace utilisable pour faire pousser quelques aromates en
@@ -44,13 +36,13 @@ Une série de tutoriel sur la plantation de chaque type de légumes à été mon
 
 Ci dessous vous trouverez des exemples de zones de cultures que nous avons créée. 
 
-![](/img/association-mâche-radis-oignon-laitue.jpg "Coffrage en bouleau avec culture de mâches, oignons et radis.")
+![](/img/planche-bouleau.jpg "Coffrage en bouleau avec culture de mâches, oignons et radis.")
 
-Coffrage en bouleau avec culture de mâches, oignons et radis.
+Coffrage en bouleau avec mâches, oignons et radis.
 
 ![](/img/culture-muret.jpg)
 
-![](/img/img_5178.jpg "Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel. ")
+![](/img/cercle-d-aromatiques.jpg "Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel. ")
 
 Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel. 
 
@@ -58,10 +50,14 @@ Piège à chaleur pour la culture de plantes aromatiques. La culture est entour�
 
 Culture en plessage (branchage frais entrelacé entre des piquets). 
 
-![](/img/pota-kermen-2.jpg)
+![](/img/130891546_151426039657313_1623318123570004091_n.jpg)
 
 Bacs potager en bois de coffrage - Bretagne 
 
 ![](/img/zone-culture-2.jpg)
 
 Planches de cultures avec ou sans coffrage et paillées.
+
+![](/img/zone-de-culture-printemps-2020-3-.jpg)
+
+Jardin "mandala" - Normandie
