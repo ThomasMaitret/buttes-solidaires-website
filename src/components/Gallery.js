@@ -14,8 +14,8 @@ const GalleryComponent = () => {
                 ...GatsbyImageSharpFluid_tracedSVG
                 originalName
               }
-              full: fluid(maxWidth: 1920) {
-                ...GatsbyImageSharpFluid_withWebp_tracedSVG
+              full: fluid(maxWidth: 1024) {
+                ...GatsbyImageSharpFluid_withWebp
               }
             }
           }
