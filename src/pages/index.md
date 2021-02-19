@@ -26,7 +26,7 @@ L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normand
 
  <br/>
 
-Jardin mandala - Normandie
+Potager vivrier en Normandie - Automne 2020.
 
 ![](/img/abris.webp)
 
@@ -42,7 +42,7 @@ besoins pour se développer.
 
 Alors pourquoi ne pas s’en inspirer pour produire notre nourriture et organiser nos modes de vies ?
 
-Un système agricole inspiré d’écosystèmes naturels. Les producteurs primaires fournissent
+Un système agricole inspiré d’écosystèmes naturels est résilients. Les producteurs primaires fournissent
 toute la matière organique nécessaire aux autres maillons de la chaine alimentaire pour
 prospérer.
 Ces producteurs primaires (des végétaux le plus souvent) fournissent cette
