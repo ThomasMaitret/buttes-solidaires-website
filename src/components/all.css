@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+nav a.active {
+  @apply text-white font-semibold bg-green;
+}
+
+.image-container {
+  height: 350px;
+  @apply bg-cover flex justify-center items-center;
+}
+
+.gallery img {
+  cursor: pointer;
+}
+
+.content {
+  @apply sm:w-7/12 p-6 mt-8;
+}
+
+.page-title {
+  @apply font-bold text-3xl sm:text-5xl leading-normal shadow-lg py-4 px-8 text-white rounded bg-green;
+}

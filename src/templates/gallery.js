@@ -9,25 +9,19 @@ const Gallerypage = ({ data }) => {
 
   return (
     <Layout>
-      <div>
-        <BackgroundImage
-          Tag="section"
-          className="full-width-image-container mt-0"
-          fluid={page.frontmatter.image.childImageSharp.fluid}
-        >
-          <h2 className="has-text-weight-bold is-size-1 page-title">
-            {page.frontmatter.title}
-          </h2>
-        </BackgroundImage>
-        <section className="section">
-          <div className="container">
-            <div className="columns is-centered">
-              <div className="column is-8">
-                <GalleryComponent />
-              </div>
-            </div>
-          </div>
-        </section>
+      <BackgroundImage
+        Tag="section"
+        className="image-container"
+        fluid={page.frontmatter.image.childImageSharp.fluid}
+      >
+        <h2 className="page-title">{page.frontmatter.title}</h2>
+      </BackgroundImage>
+      <div className="container mx-auto">
+        <div className="flex flex-wrap justify-center">
+          <article className="content">
+            <GalleryComponent />
+          </article>
+        </div>
       </div>
     </Layout>
   );

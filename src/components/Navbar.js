@@ -1,98 +1,29 @@
 import React from "react";
 import { Link } from "gatsby";
 
-const Navbar = class extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      active: false,
-      navBarActiveClass: "",
-    };
-  }
-
-  toggleHamburger = () => {
-    // toggle the active boolean in the state
-    this.setState(
-      {
-        active: !this.state.active,
-      },
-      // after state has been updated,
-      () => {
-        // set the class in state for the navbar accordingly
-        this.state.active
-          ? this.setState({
-              navBarActiveClass: "is-active",
-            })
-          : this.setState({
-              navBarActiveClass: "",
-            });
-      }
-    );
-  };
-
-  render() {
-    return (
-      <nav className="navbar is-transparent" role="navigation">
-        <div className="container">
-          <div className="navbar-brand">
-            <div
-              className={`navbar-burger burger ${this.state.navBarActiveClass}`}
-              onClick={this.toggleHamburger}
-              onKeyDown={this.toggleHamburger}
-              role="button"
-              tabIndex="0"
-            >
-              <span />
-              <span />
-              <span />
-            </div>
-          </div>
-          <div className={`navbar-menu ${this.state.navBarActiveClass}`}>
-            <div className="navbar-start mx-auto">
-              <Link className="navbar-item" to="/" activeClassName="active">
-                Accueil
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/asso/"
-                activeClassName="active"
-              >
-                L'association
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/permaculture/"
-                activeClassName="active"
-              >
-                La permaculture
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/potagers/"
-                activeClassName="active"
-              >
-                Les potagers
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/offres/"
-                activeClassName="active"
-              >
-                Nos offres
-              </Link>
-              <Link
-                className="navbar-item"
-                to="/galerie/"
-                activeClassName="active"
-              >
-                Galerie
-              </Link>
-            </div>
-          </div>
-        </div>
-      </nav>
-    );
-  }
+const Navbar = () => {
+  return (
+    <nav class="flex text-center bg-white shadow-md sm:items-baseline w-full sm:justify-center sticky top-0 z-30 whitespace-nowrap overflow-x-auto">
+      <Link to="/" activeClassName="active" className="p-4">
+        Accueil
+      </Link>
+      <Link to="/asso/" activeClassName="active" className="p-4">
+        L'association
+      </Link>
+      <Link to="/permaculture/" activeClassName="active" className="p-4">
+        La permaculture
+      </Link>
+      <Link to="/potagers/" activeClassName="active" className="p-4">
+        Les potagers
+      </Link>
+      <Link to="/offres/" activeClassName="active" className="p-4">
+        Nos offres
+      </Link>
+      <Link to="/galerie/" activeClassName="active" className="p-4">
+        Galerie
+      </Link>
+    </nav>
+  );
 };
 
 export default Navbar;
