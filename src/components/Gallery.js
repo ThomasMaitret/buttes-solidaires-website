@@ -1,9 +1,29 @@
 import React from "react";
-import { graphql, StaticQuery } from "gatsby";
+import { graphql, useStaticQuery } from "gatsby";
 import Gallery from "@browniebroke/gatsby-image-gallery";
 import "@browniebroke/gatsby-image-gallery/dist/style.css";
 
-const GalleryComponent = ({ data }) => {
+const GalleryComponent = () => {
+  const data = useStaticQuery(graphql`
+    query ImagesForGallery {
+      allFile(filter: { relativeDirectory: { eq: "gallery" } }) {
+        edges {
+          node {
+            childImageSharp {
+              thumb: fluid(maxWidth: 270, maxHeight: 270) {
+                ...GatsbyImageSharpFluid_tracedSVG
+                originalName
+              }
+              full: fluid(maxWidth: 1920) {
+                ...GatsbyImageSharpFluid_withWebp_tracedSVG
+              }
+            }
+          }
+        }
+      }
+    }
+  `);
+
   const images = data.allFile.edges.map(({ node }) => ({
     ...node.childImageSharp,
     caption: node.childImageSharp.thumb.originalName,
@@ -16,27 +36,4 @@ const GalleryComponent = ({ data }) => {
   );
 };
 
-export default () => (
-  <StaticQuery
-    query={graphql`
-      query ImagesForGallery {
-        allFile(filter: { relativeDirectory: { eq: "gallery" } }) {
-          edges {
-            node {
-              childImageSharp {
-                thumb: fluid(maxWidth: 270, maxHeight: 270) {
-                  ...GatsbyImageSharpFluid_tracedSVG
-                  originalName
-                }
-                full: fluid(maxWidth: 1920) {
-                  ...GatsbyImageSharpFluid_withWebp_tracedSVG
-                }
-              }
-            }
-          }
-        }
-      }
-    `}
-    render={(data) => <GalleryComponent data={data} />}
-  />
-);
+export default GalleryComponent;
