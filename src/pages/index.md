@@ -4,7 +4,6 @@ path: /
 title: Les buttes solidaires
 image: /img/buttes.webp
 ---
-
 ![](/img/logo.jpg)
 
 ### Notre démarche
@@ -23,7 +22,7 @@ L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normand
 
 <br/>
 
-![Jardin mandale - Normandie ](/img/zone-de-culture-printemps-2020-3-.jpg)
+![Jardin mandale - Normandie ](/img/img_5180.jpg)
 
  <br/>
 
