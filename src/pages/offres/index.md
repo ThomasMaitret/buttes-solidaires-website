@@ -10,7 +10,15 @@ Cette année nous développons l'activité de l'association en vous accompagnant
 
 \- Réalisation des zones de cultures (buttes, planches, bacs en bois...) ; 
 
-\- Formation et conseil en jardinage en permaculture 
+\- Serre chassis pour vos semis 
+
+\- Formation et conseil au jardinage en permaculture : semis, plantation et suivis des cultures ; 
+
+\- Vente de plants potagers pour garnir vos potagers ;
+
+Pour celle et ceux qui n'ont pas de jardin, nous proposons des compositions de jardinières ou pots de cultures avec les plantes de vos choix (aromates, salades, fleurs...). 
+
+
 
 
 
