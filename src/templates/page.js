@@ -1,48 +1,23 @@
 import React from "react";
-import { graphql } from "gatsby";
-import Layout from "../components/Layout";
-import BackgroundImage from "gatsby-background-image";
+import Layout from "components/Layout";
+import Image from "next/image";
 
-const Page = ({ data }) => {
-  const { markdownRemark: page } = data;
-
+const PageTemplate = ({ children, image, title }) => {
   return (
     <Layout>
-      <BackgroundImage
-        Tag="section"
-        className="image-container"
-        fluid={page.frontmatter.image.childImageSharp.fluid}
-      >
-        <h2 className="page-title">{page.frontmatter.title}</h2>
-      </BackgroundImage>
-      <div className="container mx-auto">
+      <div className="image-container">
+        <Image src={image} layout="fill" objectFit="cover" />
+        <h2 className="page-title">{title}</h2>
+      </div>
+      <div className="container mx-auto mb-10">
         <div className="flex flex-wrap justify-center">
-          <article
-            className="content prose prose-lg max-w-none"
-            dangerouslySetInnerHTML={{ __html: page.html }}
-          />
+          <article className="content prose prose-lg max-w-none">
+            {children}
+          </article>
         </div>
       </div>
     </Layout>
   );
 };
 
-export default Page;
-
-export const pageQuery = graphql`
-  query Page($id: String!) {
-    markdownRemark(id: { eq: $id }) {
-      html
-      frontmatter {
-        image {
-          childImageSharp {
-            fluid(maxWidth: 1920, quality: 90) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
-            }
-          }
-        }
-        title
-      }
-    }
-  }
-`;
+export default PageTemplate;

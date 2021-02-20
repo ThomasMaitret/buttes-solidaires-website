@@ -1,15 +1,14 @@
 import React from "react";
-import { Helmet } from "react-helmet";
-import Navbar from "../components/Navbar";
-import "./all.css";
-import useSiteMetadata from "./SiteMetadata";
+import Head from "next/head";
+import Navbar from "components/Navbar";
+import siteMetadata from "../metadata";
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata();
+  const { title, description } = siteMetadata;
+
   return (
-    <div>
-      <Helmet>
-        <html lang="fr" />
+    <>
+      <Head>
         <title>{title}</title>
         <meta name="description" content={description} />
         <link
@@ -19,10 +18,10 @@ const TemplateWrapper = ({ children }) => {
           sizes="16x16"
         />
         <meta name="theme-color" content="#fff" />
-      </Helmet>
+      </Head>
       <Navbar />
       <div>{children}</div>
-    </div>
+    </>
   );
 };
 

@@ -1,27 +1,27 @@
 import React from "react";
-import { Link } from "gatsby";
+import ActiveLink from "./ActiveLink";
 
 const Navbar = () => {
   return (
-    <nav class="flex text-center bg-white shadow-md sm:items-baseline w-full sm:justify-center sticky top-0 z-30 whitespace-nowrap overflow-x-auto">
-      <Link to="/" activeClassName="active" className="p-4">
-        Accueil
-      </Link>
-      <Link to="/asso/" activeClassName="active" className="p-4">
-        L'association
-      </Link>
-      <Link to="/permaculture/" activeClassName="active" className="p-4">
-        La permaculture
-      </Link>
-      <Link to="/potagers/" activeClassName="active" className="p-4">
-        Les potagers
-      </Link>
-      <Link to="/offres/" activeClassName="active" className="p-4">
-        Nos offres
-      </Link>
-      <Link to="/galerie/" activeClassName="active" className="p-4">
-        Galerie
-      </Link>
+    <nav className="flex text-center bg-white shadow-md sm:items-baseline w-full sm:justify-center sticky top-0 z-30 whitespace-nowrap overflow-x-auto">
+      <ActiveLink href="/" activeClassName="active">
+        <a className="p-4">Accueil</a>
+      </ActiveLink>
+      <ActiveLink href="/asso" activeClassName="active">
+        <a className="p-4">L'association</a>
+      </ActiveLink>
+      <ActiveLink href="/permaculture" activeClassName="active">
+        <a className="p-4">La permaculture</a>
+      </ActiveLink>
+      <ActiveLink href="/potagers" activeClassName="active">
+        <a className="p-4">Les potagers</a>
+      </ActiveLink>
+      <ActiveLink href="/offres" activeClassName="active">
+        <a className="p-4">Nos offres</a>
+      </ActiveLink>
+      <ActiveLink href="/galerie" activeClassName="active">
+        <a className="p-4">Galerie</a>
+      </ActiveLink>
     </nav>
   );
 };

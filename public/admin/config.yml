@@ -8,88 +8,52 @@ backend:
     uploadMedia: "[skip ci] Upload “{{path}}”"
     deleteMedia: "[skip ci] Delete “{{path}}”"
 
-media_folder: static/img
-public_folder: /img
+media_folder: public/img
+public_folder: img
 
 collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "src/pages/index.md"
+      - file: "src/pages/index.mdx"
         label: "Accueil"
         name: "index"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "index-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
-      - file: "src/pages/asso/index.md"
+      - file: "src/pages/asso.mdx"
         label: "Association"
         name: "asso"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "asso-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
-      - file: "src/pages/permaculture/index.md"
+      - file: "src/pages/permaculture.mdx"
         label: "La permaculture"
         name: "permaculture"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "permaculture-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
-      - file: "src/pages/offres/index.md"
+      - file: "src/pages/offres.mdx"
         label: "Nos offres"
         name: "offres"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "offres-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
-      - file: "src/pages/galerie/index.md"
+      - file: "src/pages/galerie.mdx"
         label: "Galerie"
         name: "galerie"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "galerie-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
-      - file: "src/pages/potagers/index.md"
+      - file: "src/pages/potagers.mdx"
         label: "Potager"
         name: "potagers"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "potagers-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
