@@ -8,8 +8,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "export": "npm run build && next export"
+    "start": "next start"
   },
   "dependencies": {
     "@mdx-js/loader": "^1.6.22",
