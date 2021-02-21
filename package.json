@@ -9,7 +9,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "export": "next build && next export"
+    "export": "npm run build && next export"
   },
   "dependencies": {
     "@mdx-js/loader": "^1.6.22",

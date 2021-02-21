@@ -17,4 +17,5 @@ module.exports = withMDX({
   pageExtensions: ["js", "mdx"],
   reactStrictMode: true,
   unstable_runtimeJS: false,
+  target: "serverless",
 });

@@ -18,6 +18,7 @@ const TemplateWrapper = ({ children }) => {
           sizes="16x16"
         />
         <meta name="theme-color" content="#fff" />
+        <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
       </Head>
       <Navbar />
       <div>{children}</div>
