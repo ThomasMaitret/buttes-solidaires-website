@@ -5,7 +5,7 @@ title: L'association
 image: /img/abris.webp
 ---
 Créée en 2018, l’association s’est occupée d’un jardin en permaculture à Meudon jusqu'en février 2021.
-Le jardin se situe en contrebas de l’observatoire et accueil régulièrement des chantiers collectifs.
+Le jardin se situe en contrebas de l’observatoire et des chantiers collectifs y étaient régulièrement organisé.
 
 Ces chantiers avaient pour objectif de partager des connaissances en permaculture et en écologie par le biais du jardinage ou lors de discussions avec les personnes de passage sur le lieu.
 
