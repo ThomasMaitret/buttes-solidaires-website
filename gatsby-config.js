@@ -19,18 +19,13 @@ module.exports = {
       },
     },
     `gatsby-plugin-image`,
-    "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
+    "gatsby-plugin-sharp",
     {
       resolve: "gatsby-transformer-remark",
       options: {
         plugins: [
-          {
-            resolve: "gatsby-remark-relative-images",
-            options: {
-              name: "uploads",
-            },
-          },
+          `gatsby-remark-relative-images`,
           {
             resolve: "gatsby-remark-images",
             options: {
@@ -39,12 +34,6 @@ module.exports = {
               // base for generating different widths of each image.
               maxWidth: 1024,
               withWebp: true,
-            },
-          },
-          {
-            resolve: "gatsby-remark-copy-linked-files",
-            options: {
-              destinationDir: "static",
             },
           },
         ],

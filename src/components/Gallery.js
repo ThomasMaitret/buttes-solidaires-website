@@ -15,10 +15,8 @@ const GalleryComponent = () => {
                 layout: CONSTRAINED
               )
               full: gatsbyImageData(layout: FULL_WIDTH)
-              meta: fixed {
-                originalName
-              }
             }
+            name
           }
         }
       }
@@ -27,7 +25,7 @@ const GalleryComponent = () => {
 
   const images = data.allFile.edges.map(({ node }) => ({
     ...node.childImageSharp,
-    caption: node.childImageSharp.meta.originalName,
+    caption: node.name,
   }));
 
   return (
