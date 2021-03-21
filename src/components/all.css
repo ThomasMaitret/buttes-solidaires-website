@@ -16,9 +16,9 @@ nav a.active {
 }
 
 .content {
-  @apply sm:w-7/12 p-6 mt-8;
+  @apply sm:w-7/12 p-6 mt-4;
 }
 
 .page-title {
-  @apply font-bold text-3xl sm:text-5xl leading-normal shadow-lg py-4 px-8 text-white rounded bg-green;
+  @apply font-bold text-3xl sm:text-5xl leading-normal shadow-lg py-4 px-8 text-white rounded bg-green absolute;
 }

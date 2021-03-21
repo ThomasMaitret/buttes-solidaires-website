@@ -1,26 +1,38 @@
-import React from "react";
+import React, { Suspense } from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
-import BackgroundImage from "gatsby-background-image";
+import HeaderImage from "../components/HeaderImage";
 
 const Page = ({ data }) => {
   const { markdownRemark: page } = data;
+  let content;
+
+  const isGalleryPage = page.frontmatter.title === "Galerie";
+  if (isGalleryPage) {
+    const GalleryComponent = React.lazy(() => import("../components/Gallery"));
+    content = (
+      <Suspense>
+        <GalleryComponent />
+      </Suspense>
+    );
+  } else {
+    content = (
+      <div
+        className="prose prose-lg max-w-none"
+        dangerouslySetInnerHTML={{ __html: page.html }}
+      ></div>
+    );
+  }
 
   return (
     <Layout>
-      <BackgroundImage
-        Tag="section"
-        className="image-container"
-        fluid={page.frontmatter.image.childImageSharp.fluid}
-      >
-        <h2 className="page-title">{page.frontmatter.title}</h2>
-      </BackgroundImage>
+      <HeaderImage
+        image={page.frontmatter.image.childImageSharp.gatsbyImageData}
+        text={page.frontmatter.title}
+      />
       <div className="container mx-auto">
         <div className="flex flex-wrap justify-center">
-          <article
-            className="content prose prose-lg max-w-none"
-            dangerouslySetInnerHTML={{ __html: page.html }}
-          />
+          <article className="content">{content}</article>
         </div>
       </div>
     </Layout>
@@ -36,9 +48,7 @@ export const pageQuery = graphql`
       frontmatter {
         image {
           childImageSharp {
-            fluid(maxWidth: 1920, quality: 90) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
-            }
+            gatsbyImageData(layout: FULL_WIDTH, aspectRatio: 5.4, quality: 75)
           }
         }
         title

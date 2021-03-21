@@ -1,9 +1,9 @@
 ---
-templateKey: page
 path: /permaculture/
 title: La permaculture
 image: /img/perma.webp
 ---
+
 <!--StartFragment-->
 
 ### La permaculture, s’inspirer de la nature
@@ -20,7 +20,7 @@ Au delà de la production de fruits et légumes, la permaculture permet de pense
 
 Un sol vivant est selon nous primordial pour que les cultures se développent bien. Pour favoriser la présence de microorganismes décomposeur du sol nous appliquons deux principes : le non travail du sol et apport massif et régulier de matière organique (tonte, feuilles mortes, paille, fumier…).
 
-**Les Semences** 
+**Les Semences**
 
 Les semences utilisées au jardin, sont reproductibles et libres de droits. Cela permet d’avoir accès à des variétés anciennes (tomates cœur de bœuf, maïs multicolore etc.) qu’il est possible de reproduire soi-même.
 
@@ -28,7 +28,7 @@ Seuls les plants exempts de maladies et qui ont été peu arrosés sont sélecti
 
 Le pouvoir de multiplication du vivant est impressionnant, seulement trois pieds d’aneth peuvent produire des centaines de graines qui donneront à leurs tour des centaines d’autres plants.
 
-**Les associations de cultures** 
+**Les associations de cultures**
 
 Les principes de compagnonnage ou association de
 culture sont (presque) toujours appliqués au jardin. Il n’existe
@@ -42,21 +42,21 @@ exemple, une culture gourmande en nutriments serra suivit directement d’une
 moins exigeante. Exemple : culture de tomates ou courges suivit de la plantation
 d’ail ou roquette.
 
-   **La Milpa** (association courges, maïs et haricots) 
+**La Milpa** (association courges, maïs et haricots)
 
 <!--StartFragment-->
 
 Inventée par les peuples premiers d’Amérique du Sud, la Milpa est la culture, sur un même espace, de trois plantes : le maïs, la courge et les haricots. Le maïs qui grandit en hauteur sert de tuteurs aux haricots à rames, les courges, elles, font offices de couvre sol.
 
-![](/img/milpa.jpg)
+![Milpa](/img/milpa.jpg)
 
 Ici la Milpa réalisée au potager, le maïs sont complétés par quelques pieds de tournesols ! La cultures de haricots a mal pris cette année, ils ne sont donc pas visibles sur la photos.
 
 <!--EndFragment-->
 
-Dans un Millpa diversifiée, il est possible d'ajouter des tomates, aubergines ou poivrons. 
+Dans un Millpa diversifiée, il est possible d'ajouter des tomates, aubergines ou poivrons.
 
-   **Poireaux & blettes** 
+**Poireaux & blettes**
 
 <!--StartFragment-->
 
@@ -66,9 +66,9 @@ La blette se contente d’un sol moins riches et son système racinaire se déve
 
 <!--EndFragment-->
 
-![](/img/perma.webp)
+![Perma](/img/perma.webp)
 
-  **Tomates & capucines** 
+**Tomates & capucines**
 
 <!--StartFragment-->
 
@@ -78,6 +78,6 @@ Les capucines, cultivées au pieds des tomates, attirent les pucerons qui s’at
 
 <!--EndFragment-->
 
-![](/img/Association tomates - capucines.webp)
+![Association tomates - capucines](/img/Association tomates - capucines.webp)
 
 Les associations présentées ici sont celles que nous avons réussi dans no jardins. Le mieux est de les tester dans vos jardins et de voir celles qui marchent ou non :).

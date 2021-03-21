@@ -19,12 +19,6 @@ collections:
         label: "Accueil"
         name: "index"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "index-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
@@ -32,12 +26,6 @@ collections:
         label: "Association"
         name: "asso"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "asso-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
@@ -45,12 +33,6 @@ collections:
         label: "La permaculture"
         name: "permaculture"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "permaculture-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
@@ -58,12 +40,6 @@ collections:
         label: "Nos offres"
         name: "offres"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "offres-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
@@ -71,12 +47,6 @@ collections:
         label: "Galerie"
         name: "galerie"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "galerie-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }
@@ -84,12 +54,6 @@ collections:
         label: "Potager"
         name: "potagers"
         fields:
-          - {
-              label: "Template Key",
-              name: "templateKey",
-              widget: "hidden",
-              default: "potagers-page",
-            }
           - { label: Title, name: title, widget: string }
           - { label: "Body", name: "body", widget: "markdown" }
           - { label: Image, name: image, widget: image }

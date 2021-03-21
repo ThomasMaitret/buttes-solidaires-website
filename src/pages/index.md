@@ -1,10 +1,10 @@
 ---
-templateKey: page
 path: /
 title: Les buttes solidaires
 image: /img/buttes.webp
 ---
-![](/img/logo.jpg)
+
+![Logo](/img/logo.jpg)
 
 ### Notre démarche
 
@@ -20,15 +20,11 @@ Comment se réapproprier ce que nous consommons et les lieux où nous vivons en 
 
 L'association s'occupe de deux potagers, un à Meudon et le deuxième en Normandie (voir l'onglet "potager"). L'idée est d'acquérir les compétences nécessaire au lancement d'un écovillage permaculturel.
 
-<br/>
-
 ![Jardin mandale - Normandie ](/img/img_5180.jpg)
-
- <br/>
 
 Potager vivrier en Normandie - Automne 2020.
 
-![](/img/abris.webp)
+![Abris](/img/abris.webp)
 
 Jardin de Meudon - Février 2020
 

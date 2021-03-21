@@ -1,9 +1,4 @@
 module.exports = {
-  siteMetadata: {
-    title: "Buttes solidaires",
-    description:
-      "Les buttes solidaires: Permaculture, vente de plants et jardinage à domicile",
-  },
   plugins: [
     "gatsby-plugin-react-helmet",
     `gatsby-plugin-preact`,
@@ -23,6 +18,7 @@ module.exports = {
         name: "pages",
       },
     },
+    `gatsby-plugin-image`,
     "gatsby-plugin-sharp",
     "gatsby-transformer-sharp",
     {
