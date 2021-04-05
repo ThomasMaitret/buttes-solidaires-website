@@ -79,4 +79,4 @@ Les capucines, cultivées au pieds des tomates, attirent les pucerons qui s’at
 
 ![Association tomates - capucines](/img/Association tomates - capucines.webp)
 
-Les associations présentées ici sont celles que nous avons réussi dans no jardins. Le mieux est de les tester dans vos jardins et de voir celles qui marchent ou non :).
+Les associations présentées ici sont celles que nous avons réussi dans nos jardins. Le mieux est de les tester dans vos jardins et de voir celles qui marchent ou non :).
