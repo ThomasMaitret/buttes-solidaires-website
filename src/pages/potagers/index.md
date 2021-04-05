@@ -1,4 +1,5 @@
 ---
+templateKey: page
 path: /potagers/
 title: Les potagers
 image: /img/potager2.webp

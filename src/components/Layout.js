@@ -2,21 +2,26 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import Navbar from "../components/Navbar";
 import "./all.css";
+import useSiteMetadata from "./SiteMetadata";
 
 const TemplateWrapper = ({ children }) => {
+  const { title, description } = useSiteMetadata();
   return (
     <div>
       <Helmet>
-        <title>Buttes solidaires</title>
-        <meta
-          name="description"
-          content="Les buttes solidaires: Permaculture, vente de plants et jardinage à domicile"
+        <html lang="fr" />
+        <title>{title}</title>
+        <meta name="description" content={description} />
+        <link
+          rel="icon"
+          type="image/png"
+          href="/img/favicon.png"
+          sizes="16x16"
         />
-        <link rel="icon" type="image/png" href="/favicon.png" sizes="16x16" />
         <meta name="theme-color" content="#fff" />
       </Helmet>
       <Navbar />
-      <div className="mb-12">{children}</div>
+      <div>{children}</div>
     </div>
   );
 };

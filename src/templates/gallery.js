@@ -1,9 +1,10 @@
 import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
+import GalleryComponent from "../components/Gallery";
 import BackgroundImage from "gatsby-background-image";
 
-const Page = ({ data }) => {
+const Gallerypage = ({ data }) => {
   const { markdownRemark: page } = data;
 
   return (
@@ -17,22 +18,20 @@ const Page = ({ data }) => {
       </BackgroundImage>
       <div className="container mx-auto">
         <div className="flex flex-wrap justify-center">
-          <article
-            className="content prose prose-lg max-w-none"
-            dangerouslySetInnerHTML={{ __html: page.html }}
-          />
+          <article className="content">
+            <GalleryComponent />
+          </article>
         </div>
       </div>
     </Layout>
   );
 };
 
-export default Page;
+export default Gallerypage;
 
 export const pageQuery = graphql`
-  query Page($id: String!) {
+  query Gallery($id: String!) {
     markdownRemark(id: { eq: $id }) {
-      html
       frontmatter {
         image {
           childImageSharp {

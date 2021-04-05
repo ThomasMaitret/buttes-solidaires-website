@@ -1,4 +1,5 @@
 ---
+templateKey: page
 path: /
 title: Les buttes solidaires
 image: /img/buttes.webp
@@ -23,6 +24,6 @@ L'idée est d'acquérir et partager les compétences nécessaires au lancement d
 
 Potager vivrier en Normandie - Printemps 2021.
 
-![Abris](/img/abris.webp)
+![](/img/abris.webp)
 
 Jardin de Meudon - Eté 2020
