@@ -17,7 +17,7 @@ Partager nos connaissances et en acquérir de nouvelles est un moteur qui nous p
 tout les jours à découvrir de nouvelles choses et parler de celle que nous connaissons.
 Comment se réapproprier ce que nous consommons et les lieux où nous vivons en restant en harmonie avec le vivant ?
 
-L'association a exploité un jardin permacole à Meudon jusque fin 2020 (voir onglet "les potagers"). L'idée est d'acquérir les compétences nécessaire au lancement d'un écovillage permaculturel.
+L'idée est d'acquérir les compétences nécessaires au lancement d'un écovillage permaculturel.
 
 ![Jardin mandale - Normandie ](/img/potager-mesnil-avril-2021.jpg)
 
