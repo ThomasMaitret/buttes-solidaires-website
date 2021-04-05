@@ -3,7 +3,6 @@ path: /offres/
 title: Nos offres
 image: /img/courgette.webp
 ---
-
 Cette année nous développons l'activité de l'association en vous accompagnant dans la réalisation de vos cultures. Concrètement nous proposons :
 
 \- Design du potager : l'agencement (orientation, emplacement) des zones de cultures, du compost ;
@@ -36,17 +35,19 @@ Une série de tutoriel sur la plantation de chaque type de légumes à été mon
 
 Ci dessous vous trouverez des exemples de zones de cultures que nous avons créée.
 
-![Coffrage en bouleau](/img/planche-bouleau.jpg "Coffrage en bouleau avec culture de mâches, oignons et radis.")
+![Coffrage en bouleau](/img/association-mâche-radis-oignon-laitue.jpg "Coffrage en bouleau avec culture de mâches, oignons et radis.")
 
 Coffrage en bouleau avec mâches, oignons et radis.
 
 ![Culture muret](/img/culture-muret.jpg)
 
-![Piège à chaleur](/img/cercle-d-aromatiques.jpg "Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel. ")
+Zone de culture avec un coffrage en pierre sèche. Les pierres captent la chaleur pendant la journée et la restitue la nuit ce qui limite les dégâts du gel sur vos cultures.
 
-Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel.
+![Piège à chaleur](/img/img_8116-1-.jpg "Piège à chaleur pour la culture de plantes aromatiques. La culture est entouré de pierre qui vont capter la chaleur le jour pour la redistribuer la nuit et ainsi protéger les plantes du gel. ")
 
-![Culture en plessage](/img/zone-de-culture-plessage.jpg "Culture en plessage (branchage frais entrelacé entre des piquets). ")
+Piège à chaleur pour la culture de plantes aromatiques. Les pierres captent la chaleur pendant la journée et la restitue la nuit ce qui limite les dégâts du gel sur vos cultures.
+
+![Culture en plessage](/img/93792469_217821272968679_9003400338987810816_n.jpg "Culture en plessage (branchage frais entrelacé entre des piquets). ")
 
 Culture en plessage (branchage frais entrelacé entre des piquets).
 
