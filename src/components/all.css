@@ -8,7 +8,7 @@ nav a.active {
 
 .image-container {
   height: 350px;
-  @apply bg-cover flex justify-center items-center;
+  @apply bg-cover flex justify-center items-center overflow-hidden;
 }
 
 .gallery img {
