@@ -3,7 +3,6 @@ path: /permaculture/
 title: La permaculture
 image: /img/perma.webp
 ---
-
 <!--StartFragment-->
 
 ### La permaculture, s’inspirer de la nature
@@ -22,7 +21,7 @@ Un sol vivant est selon nous primordial pour que les cultures se développent bi
 
 **Les Semences**
 
-Les semences utilisées au jardin, sont reproductibles et libres de droits. Cela permet d’avoir accès à des variétés anciennes (tomates cœur de bœuf, maïs multicolore etc.) qu’il est possible de reproduire soi-même.
+Les semences utilisées au jardin sont reproductibles et libres de droits. Cela permet d’avoir accès à des variétés anciennes (tomates cœur de bœuf, maïs multicolore etc.) qu’il est possible de reproduire soi-même.
 
 Seuls les plants exempts de maladies et qui ont été peu arrosés sont sélectionnés pour produire les semences. Les semences sont donc mieux adaptées au terrain et plus résistantes aux aléas climatiques (sécheresses, fortes chaleurs, ravageurs).
 
@@ -37,8 +36,8 @@ pour éloigner les ravageurs ou maladies en utilisant des plantes dites
 compagnes.
 
 Cependant, le gain d’espace, d'efficacité et l’esthétique de ces cultures est
-sans équivoques. Les rotations de cultures permet une optimisation de la production de légumes. Par
-exemple, une culture gourmande en nutriments serra suivit directement d’une
+sans équivoques. Les rotations de cultures dans l'espace et dans le temps permet une optimisation de la production de légumes. Par
+exemple, une culture gourmande en nutriments serra suivit directement d’une culture
 moins exigeante. Exemple : culture de tomates ou courges suivit de la plantation
 d’ail ou roquette.
 
