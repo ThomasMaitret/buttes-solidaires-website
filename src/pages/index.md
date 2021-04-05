@@ -14,10 +14,10 @@ Cela passe par le jardinage, le travail du bois, l’apprentissage de modes de v
 Quoi de mieux de faire cela dans un cadre de vie agréable et jolie ?
 
 Partager nos connaissances et en acquérir de nouvelles est un moteur qui nous poussent
-tout les jours à découvrir de nouvelles choses et parler de celle que nous connaissons.
+tous les jours à découvrir de nouvelles choses et parler de celles que nous connaissons.
 Comment se réapproprier ce que nous consommons et les lieux où nous vivons en restant en harmonie avec le vivant ?
 
-L'idée est d'acquérir les compétences nécessaires au lancement d'un écovillage permaculturel.
+L'idée est d'acquérir et partager les compétences nécessaires au lancement d'un écovillage permaculturel.
 
 ![Jardin mandale - Normandie ](/img/potager-mesnil-avril-2021.jpg)
 
