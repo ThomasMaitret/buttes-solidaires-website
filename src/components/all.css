@@ -13,6 +13,7 @@ nav a.active {
 
 .gallery img {
   cursor: pointer;
+  width: 200px;
 }
 
 .content {
@@ -20,5 +21,5 @@ nav a.active {
 }
 
 .page-title {
-  @apply font-bold text-3xl sm:text-5xl leading-normal shadow-lg py-4 px-8 text-white rounded bg-green;
+  @apply font-bold text-3xl sm:text-5xl leading-normal shadow-lg py-4 px-8 text-white rounded bg-green absolute;
 }

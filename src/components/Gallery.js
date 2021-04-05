@@ -1,7 +1,6 @@
 import React from "react";
 import { graphql, useStaticQuery } from "gatsby";
 import Gallery from "@browniebroke/gatsby-image-gallery";
-import "@browniebroke/gatsby-image-gallery/dist/style.css";
 
 const GalleryComponent = () => {
   const data = useStaticQuery(graphql`
@@ -10,7 +9,7 @@ const GalleryComponent = () => {
         edges {
           node {
             childImageSharp {
-              thumb: fluid(maxWidth: 270, maxHeight: 270) {
+              thumb: fluid(maxWidth: 200, maxHeight: 200) {
                 ...GatsbyImageSharpFluid_tracedSVG
                 originalName
               }

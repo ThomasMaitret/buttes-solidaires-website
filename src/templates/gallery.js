@@ -2,20 +2,17 @@ import React from "react";
 import { graphql } from "gatsby";
 import Layout from "../components/Layout";
 import GalleryComponent from "../components/Gallery";
-import BackgroundImage from "gatsby-background-image";
+import HeaderImage from "../components/HeaderImage";
 
 const Gallerypage = ({ data }) => {
   const { markdownRemark: page } = data;
 
   return (
     <Layout>
-      <BackgroundImage
-        Tag="section"
-        className="image-container"
-        fluid={page.frontmatter.image.childImageSharp.fluid}
-      >
-        <h2 className="page-title">{page.frontmatter.title}</h2>
-      </BackgroundImage>
+      <HeaderImage
+        image={page.frontmatter.image.childImageSharp.fluid}
+        text={page.frontmatter.title}
+      />
       <div className="container mx-auto">
         <div className="flex flex-wrap justify-center">
           <article className="content">
@@ -35,8 +32,8 @@ export const pageQuery = graphql`
       frontmatter {
         image {
           childImageSharp {
-            fluid(maxWidth: 1920, quality: 90) {
-              ...GatsbyImageSharpFluid_withWebp_noBase64
+            fluid(maxWidth: 1920) {
+              ...GatsbyImageSharpFluid_withWebp
             }
           }
         }

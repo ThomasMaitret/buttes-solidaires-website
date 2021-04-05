@@ -2,16 +2,17 @@ import React from "react";
 import { Helmet } from "react-helmet";
 import Navbar from "../components/Navbar";
 import "./all.css";
-import useSiteMetadata from "./SiteMetadata";
 
 const TemplateWrapper = ({ children }) => {
-  const { title, description } = useSiteMetadata();
   return (
     <div>
       <Helmet>
         <html lang="fr" />
-        <title>{title}</title>
-        <meta name="description" content={description} />
+        <title>Buttes solidaires</title>
+        <meta
+          name="description"
+          content="Les buttes solidaires: Permaculture, vente de plants et jardinage à domicile"
+        />
         <link
           rel="icon"
           type="image/png"
