@@ -11,6 +11,7 @@ const Page = ({ data }) => {
       <HeaderImage
         image={page.frontmatter.image.childImageSharp.fluid}
         text={page.frontmatter.title}
+        alt={page.frontmatter.image.name}
       />
       <div className="container mx-auto">
         <div className="flex flex-wrap justify-center">
@@ -37,6 +38,7 @@ export const pageQuery = graphql`
               ...GatsbyImageSharpFluid_withWebp
             }
           }
+          name
         }
         title
       }
