@@ -60,7 +60,7 @@ Dans un Millpa diversifiée, il est possible d'ajouter des tomates, aubergines o
 
 <!--StartFragment-->
 
-Exemple d’une planche avec poireaux et blettes. Cette association se base sur une utilisation de l’espace et des ressources différentes. Les poireaux demandent un sol riche et ont des racines peu profondes.
+Exemple d’une planche avec poireaux et blettes. Les poireaux demandent un sol riche et ont des racines peu profondes.
 
 La blette se contente d’un sol moins riches et son système racinaire se développe plus profondément. Ces deux cultures sont donc complémentaires dans leur utilisation de l’espace et des ressources du sol.
 
