@@ -30,7 +30,7 @@ Le pouvoir de multiplication du vivant est impressionnant, seulement trois pieds
 
 **Les associations de cultures** 
 
-Les principes de compagnonnage ou association de
+Les principes d'association de
 culture sont (presque) toujours appliqués au jardin. Il n’existe
 pas de consensus scientifique sur l’efficacité de ces techniques
 pour éloigner les ravageurs ou maladies en utilisant des plantes dites
