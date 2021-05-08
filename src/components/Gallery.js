@@ -9,13 +9,8 @@ const GalleryComponent = () => {
         edges {
           node {
             childImageSharp {
-              thumb: fluid(maxWidth: 200, maxHeight: 200) {
-                ...GatsbyImageSharpFluid_tracedSVG
-                originalName
-              }
-              full: fluid(maxWidth: 1024) {
-                ...GatsbyImageSharpFluid_withWebp
-              }
+              thumb: gatsbyImageData(width: 270, height: 270)
+              full: gatsbyImageData(layout: FULL_WIDTH)
             }
             name
           }
@@ -26,7 +21,7 @@ const GalleryComponent = () => {
 
   const images = data.allFile.edges.map(({ node }) => ({
     ...node.childImageSharp,
-    caption: node.childImageSharp.thumb.originalName,
+    caption: node.name,
   }));
 
   return (

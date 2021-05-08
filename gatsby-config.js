@@ -18,8 +18,9 @@ module.exports = {
         name: "pages",
       },
     },
-    "gatsby-transformer-sharp",
+    `gatsby-plugin-image`,
     "gatsby-plugin-sharp",
+    "gatsby-transformer-sharp",
     {
       resolve: "gatsby-transformer-remark",
       options: {

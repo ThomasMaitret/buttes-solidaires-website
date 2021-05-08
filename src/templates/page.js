@@ -9,7 +9,7 @@ const Page = ({ data }) => {
   return (
     <Layout>
       <HeaderImage
-        image={page.frontmatter.image.childImageSharp.fluid}
+        image={page.frontmatter.image.childImageSharp.gatsbyImageData}
         text={page.frontmatter.title}
         alt={page.frontmatter.image.name}
       />
@@ -34,9 +34,7 @@ export const pageQuery = graphql`
       frontmatter {
         image {
           childImageSharp {
-            fluid(maxWidth: 1920) {
-              ...GatsbyImageSharpFluid_withWebp
-            }
+            gatsbyImageData(layout: FULL_WIDTH)
           }
           name
         }
