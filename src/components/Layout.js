@@ -1,6 +1,7 @@
 import React from "react";
 import { Helmet } from "react-helmet";
 import Navbar from "../components/Navbar";
+// import Footer from "../components/Footer";
 import "./all.css";
 
 const TemplateWrapper = ({ children }) => {
@@ -22,7 +23,8 @@ const TemplateWrapper = ({ children }) => {
         <meta name="theme-color" content="#fff" />
       </Helmet>
       <Navbar />
-      <div>{children}</div>
+      <div class="mb-8">{children}</div>
+      {/* <Footer /> */}
     </div>
   );
 };

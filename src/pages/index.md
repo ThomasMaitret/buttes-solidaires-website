@@ -4,6 +4,7 @@ path: /
 title: Les buttes solidaires
 image: /img/buttes.webp
 ---
+
 ![Logo](/img/logo.jpg)
 
 ### Notre démarche
