@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@browniebroke/gatsby-image-gallery": "^6.2.1",
-    "@tailwindcss/typography": "^0.4.0",
+    "@tailwindcss/typography": "^0.4.1",
     "gatsby": "^3.5.1",
     "gatsby-plugin-image": "^1.5.0",
     "gatsby-plugin-netlify": "^3.5.0",
@@ -29,7 +29,7 @@
     "gatsby-source-filesystem": "^3.5.0",
     "gatsby-transformer-remark": "^4.2.0",
     "gatsby-transformer-sharp": "^3.5.0",
-    "netlify-cms-app": "^2.15.9",
+    "netlify-cms-app": "^2.15.11",
     "postcss": "^8.3.0",
     "preact": "^10.5.13",
     "preact-render-to-string": "^5.1.19",
