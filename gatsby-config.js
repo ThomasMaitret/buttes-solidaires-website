@@ -42,4 +42,8 @@ module.exports = {
     "gatsby-plugin-netlify-cms",
     "gatsby-plugin-netlify", // make sure to keep it last in the array
   ],
+  flags: {
+    PARALLEL_QUERY_RUNNING: true,
+    FAST_DEV: true,
+  },
 };
